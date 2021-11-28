@@ -23,9 +23,13 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
-### Screenshot
+### Screenshots
+
+#### Desktop :
 
 ![](./images/desktop.jpg)
+
+#### Mobile :
 
 ![](./images/mobile-nft.jpg)
 
@@ -48,5 +52,5 @@ Started with Basic HTML to build the structure and then styled with css.
 ## Author
 
 - Website - [Akshay Raichur](https://www.akshayraichur.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/akshayraichur)
-- Twitter - [@yourusername](https://www.twitter.com/akshayvraichur)
+- Frontend Mentor - [@akshayraichur](https://www.frontendmentor.io/profile/akshayraichur)
+- Twitter - [@akshayvraichur](https://www.twitter.com/akshayvraichur)
