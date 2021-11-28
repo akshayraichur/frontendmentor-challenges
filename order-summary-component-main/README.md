@@ -14,6 +14,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ## Overview
 
+Order Summary Component Built with HTML & CSS
+
 ### The challenge
 
 Users should be able to:
@@ -32,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/akshayraichur/frontendmentor-challenges/tree/main/order-summary-component-main)
-- Live Site URL: [Add live site URL here](https://akshayraichur.github.io/frontendmentor-challenges/order-summary-component-main/)
+- Solution URL: [URL](https://github.com/akshayraichur/frontendmentor-challenges/tree/main/order-summary-component-main)
+- Live Site URL: [URL](https://akshayraichur.github.io/frontendmentor-challenges/order-summary-component-main/)
 
 ## My process
 
@@ -48,6 +50,6 @@ Got Started with building the basic structure with HTML and then styling it with
 
 ## Author
 
-- Website - [Add your name here](https://www.akshayraichur.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/akshayraichur)
-- Twitter - [@yourusername](https://www.twitter.com/akshayvraichur)
+- Website - [Akshay](https://www.akshayraichur.com)
+- Frontend Mentor - [@akshay](https://www.frontendmentor.io/profile/akshayraichur)
+- Twitter - [@akshayvraichur](https://www.twitter.com/akshayvraichur)
